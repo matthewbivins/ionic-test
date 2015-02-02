@@ -1,0 +1,8 @@
+2015-01-30 13:12:52.855 HelloWurldApp[45305:3654170] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/macnab/Library/Developer/CoreSimulator/Devices/0E0A6D14-2C0B-4BC8-BCAE-4261823BCB67/data/Containers/Data/Application/A87BDFD4-458B-4F78-98A0-234F46D520E6/Library/Cookies/Cookies.binarycookies
+2015-01-30 13:12:53.143 HelloWurldApp[45305:3654170] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-30 13:12:53.143 HelloWurldApp[45305:3654170] Multi-tasking -> Device: YES, App: YES
+2015-01-30 13:12:53.158 HelloWurldApp[45305:3654170] Unlimited access to network resources
+2015-01-30 13:12:53.627 HelloWurldApp[45305:3654170] [CDVTimer][keyboard] 0.057995ms
+2015-01-30 13:12:53.627 HelloWurldApp[45305:3654170] [CDVTimer][TotalPluginStartup] 0.218987ms
+2015-01-30 13:12:54.435 HelloWurldApp[45305:3654170] Resetting plugins due to page load.
+2015-01-30 13:12:54.692 HelloWurldApp[45305:3654170] Finished load of: file:///Users/macnab/Library/Developer/CoreSimulator/Devices/0E0A6D14-2C0B-4BC8-BCAE-4261823BCB67/data/Containers/Bundle/Application/45B5C8F8-BD48-4952-8DA4-CE7E3D360D58/HelloWurldApp.app/www/index.html#/tab/dash
